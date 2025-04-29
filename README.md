@@ -1,4 +1,4 @@
 ```
 pnpm i
-hardhat test solidity
+pnpm hardhat test solidity
 ```
